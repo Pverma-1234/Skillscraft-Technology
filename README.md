@@ -12,11 +12,11 @@ A grouped bar chart was created to compare male and female population across the
 
 This visualization provides:
 
-A quick gender-based comparison
+--> A quick gender-based comparison
 
-Insight into gender balance across urban regions
+--> Insight into gender balance across urban regions
 
-An understanding of which cities are highly populated
+--> An understanding of which cities are highly populated
 
 🟦 Male — 🔴 Female
 ✅ Easy comparison
